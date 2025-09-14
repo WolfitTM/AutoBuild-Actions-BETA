@@ -12,8 +12,8 @@ Firmware_Diy_Core() {
 	# ${OP_BRANCH}			OpenWrt 源码分支
 	# ${CONFIG_FILE}		配置文件
 
- 	Author=immortalwrt
-	# Author=AUTO
+ 	# Author=immortalwrt
+	Author=AUTO
 	# 作者名称, AUTO: [自动识别]
 	
 	Author_URL=AUTO
